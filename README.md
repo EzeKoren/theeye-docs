@@ -33,10 +33,10 @@ theeye-docs
 ### Docker enviroment
 
 #### Start development server on http://localhost:8000
-docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
+docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material:7.3.6
 
 #### Build sitio estatico
-docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
+docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material:7.3.6 build
 
 ##### Test sitio estatico
 docker run -dit  -p 8080:80 -v "$PWD"/site/:/usr/local/apache2/htdocs/ httpd

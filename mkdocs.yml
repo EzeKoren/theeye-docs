@@ -1,6 +1,6 @@
 # Configuration site theme
 theme:
-  name: material
+  name: 'mkdocs'
   language: 'en'
   palette:
     primary: 'indigo'
@@ -12,6 +12,7 @@ markdown_extensions:
   - codehilite
 
 # Project information
+repo_name: 'https://github.com/theeye-io-team/theeye-docs'
 site_name: 'TheEye'
 site_description: 'TheEye is a platform for Robot automation Processes and Systems'
 site_url: 'https://app.theeye.io/dashboard'
