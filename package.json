@@ -1,0 +1,16 @@
+{
+  "name": "theeye-docs",
+  "version": "1.0.0",
+  "description": "Static site for documentation",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "docsify serve docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}

@@ -9,7 +9,7 @@ The **Agent** works as interface and comunication between the Host and TheEye Co
 
 The recommenden is to install and configure the Agent as Service/Daemon.
 
-## Installation
+## Getting started
 
 From the web panel ([settings -> installer](https://app.theeye.io/dashboard#installer)) you can download the binary agent and get the installation script for your host.
 
@@ -19,7 +19,7 @@ From the web panel ([settings -> installer](https://app.theeye.io/dashboard#inst
 ![full list for install](../../images/TheEye-Agent-Full-list.jpg)
 
 
-### Linux Bot Installer
+## Linux Bot Installer
 
 At this moment the supported distributions by the instalation script are
 
@@ -36,14 +36,14 @@ NOTE:
     - It should works out of the box on every Linux with a kernel version 3.x+. For Linux with Kernel 2.x could require aditional actions.
 
 
-#### To install the Bot on Linux
+### To install the Bot on Linux
 
 ![linux install](../../images/TheEye-Agent-Linux-Install.jpg)
 
 ***Manual Instalation from sources***
 Check the documentation.
 
-### Windows Bot Installer
+## Windows Bot Installer
 
 NOTE: 
 
@@ -52,18 +52,18 @@ NOTE:
 
 If you need to debug, develop or if you prefer the manual installation of the agent, keep reading.
 
-#### To install the Bot on Windows
+### To install the Bot on Windows
 
 ![windows install](../../images/TheEye-Agent-Windows-Install.jpg)
 
-### Docker Bot Installer
+## Docker Bot Installer
 
-#### To run a Docker version of the Bot
+### To run a Docker version of the Bot
 
 ![docker install](../../images/TheEye-Agent-Docker-Install.jpg)
 
-### AWS Bot Installer
+## AWS Bot Installer
 
-#### To install the AWS Bot
+### To install the AWS Bot
 
 ![AWS install](../../images/TheEye-Agent-AWS-Install.jpg)
