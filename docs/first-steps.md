@@ -10,7 +10,7 @@
          1. Register your account username.
          2. Register the name of your organization.
 
-An **organization** in The Eye is an entity that comprises multiple objects, such as multiple hosts or a sequence of automated tasks and triggers, that has a particular purpose.
+An **organization** in TheEye is an entity that comprises multiple objects, such as multiple hosts or a sequence of automated tasks and triggers, that has a particular purpose.
 
 Once you've activated your user account, you'll see this Dashboard after login:
 
@@ -20,7 +20,7 @@ Once you've activated your user account, you'll see this Dashboard after login:
 The Tutorial will guide you through the installation process of a **Bots** and will show you how to create a **task**.
 
 ### I came for the **bots**!
-In The Eye you would like to perform actions or automate with **bots**
+In TheEye you would like to perform actions or automate with **bots**
 
 Start the self-provided Bot or Install one on each server.
 

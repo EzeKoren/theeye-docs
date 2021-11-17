@@ -1,10 +1,10 @@
-# Introduction to The Eye
+# Introduction to TheEye
 
 [![theeye.io](images/logo-theeye-theOeye-logo2.png)](https://theeye.io/en/index.html)
 
 ## What is TheEye?
 
-**The Eye** works as an _automation platform_. Depending on your use case it can be both an _automation platform as a service_ or an _automation service platform,_. You may use it as:
+**TheEye** works as an _automation platform_. Depending on your use case it can be both an _automation platform as a service_ or an _automation service platform_. You may use it as:
 
 * A remote server management and a monitoring tool \(Devops\)
 * A server provisioning tool
@@ -16,11 +16,11 @@
 
 It allows you to **monitor** and manage **resources**, launch and **schedule** **tasks**, write and/or upload **scripts**, build **workflows** through a series of **task** results or even **trigger** specific **tasks** or **workflows** as a response to one of your **monitor events**. All this is done from the web interface or the mobile app.
 
-The **bolded keywords** in the above paragraph are all core concepts of The Eye.
+The **bolded keywords** in the above paragraph are all core concepts of TheEye.
 
 ## Domain vocabulary
 
-The Eye consists on the core _**orchestation**_ platform running in a SaaS infrastructure. The _**orchestrator**_ receives _**bots**_ and _**clients**_ connections.
+TheEye consists on the core _**orchestation**_ platform running in a SaaS infrastructure. The _**orchestrator**_ receives _**bots**_ and _**clients**_ connections.
 It works as a finite-state machine to keeps track of _**monitors**_ and _**indicators**_ states, _**tasks**_ and _**workflows**_ execution results,
 and trigger _**notifications**_ on _**events**_.
 It helps maintains _**scripts**_ and _**files**_.
@@ -34,7 +34,7 @@ It helps maintains _**scripts**_ and _**files**_.
 [Workflows](core-concepts/tasks/workflows/).
 
 
-A _**client**_ is any means capable of connecting to the _**core platform**_ through a secure protocol and gain access with valid credentials. The Eye provides a web UI as it's main _**client**_, but alternative connection mechanisms can be implemented and any of them would fall under the _**client**_ category.
+A _**client**_ is any means capable of connecting to the _**core platform**_ through a secure protocol and gain access with valid credentials. TheEye provides a web UI as it's main _**client**_, but alternative connection mechanisms can be implemented and any of them would fall under the _**client**_ category.
 
 A _**host**_ is any instance, server or machine the _**user**_ wants to _**monitor**_ or control. The _**host**_ must have internet access, the _**agent**_ installed and configured and be able to reach the _**core platform**_.
 
