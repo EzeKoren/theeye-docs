@@ -23,16 +23,16 @@ Debido a su versatilidad, se puede utilizar de diversas formas. Entre ellas
 
 ## Vocabulario del Dominio
 
-- Client Connections
-- Authorization System
-- Host & Agent
-- Monitor
-- Task
-- Workflow
-- Indicator
-- File / Script
-- Webhook (Incoming / Outgoing)
-- Bot
+- [Client Connections](#client-Connections)
+- [Authorization System](#authorization-System)
+- [Host & Agent](#host-amp-agent)
+- [Monitor](#monitor)
+- [Task](#task)
+- [Workflow](#workflow)
+- [Indicator](#wndicator)
+- [File & Script](#file-amp-script)
+- [Webhook (Incoming / Outgoing)](#webhook-incoming-outgoing)
+- [Bot](#bot)
 
 ### Client Connections
 
@@ -102,12 +102,11 @@ Hay 5 tipos de monitores disponibles
 
 ## Internal Micro-Services
 
-- Events System
-- Job Dispatcher
-- Job Scheduler
-- Notification System
-- Authentication System
-
+- [Event Dispatcher](#Event-Dispatcher)
+- [Job Dispatcher](#Job-Dispatcher)
+- [Job Scheduler](#Job-Scheduler)
+- [Notification System](#Notification-System)
+- [Authentication System](#Authentication-System)
 
 ### Event Dispatcher
 
